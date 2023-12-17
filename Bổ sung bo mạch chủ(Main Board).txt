@@ -1,0 +1,29 @@
+Bo mạch chủ là một thành phần chính của máy tính được gọi tắt theo tiếng anh là mobo(mạch điện tử lớn)
+	có khe cắm cpu như intel core i3,i5,i7,i9
+	có khe cắm bộ nhớ ram(memory slot)
+	có các khe cắm mở rộng để nâng cấp các chức năng dành cho máy tính(card màn hình,âm thanh,card mạng)
+	cÓ các kết nối ngoài như ổ cắm sata để kết nối đến các ổ cứng như ssd hdd
+	Các máy laptop xách tay mới hiện này còn có các ổ cứng M2 để gắn các ổ cứng nhỏ ngọn
+	
+	Platform controller Hub viết tắt pch(bộ đồ khiển nền tảng --> chip set mới nhất của intel thay cho chip cầu nam
+	
+	chip cầu Bắc có chức năng trung gian kết nối cpu ram thiết bị ngoại vi hay là các card đồ họa
+	
+	chip cầu nam cho giao lưu giữa các khe cắm PCI đầu nối sata cổng usb
+	
+	Ngày nay thì chip cầu bắc được tích hợp toàn bộ vào luôn CPU	
+	
+	Ngày nay thì chip cầu nam được thay thế bằng bộ điều khiển nền tảng
+	
+	Các bo mạch chủ điều có thiết kế cổng đầu vào và ra của nó
+	
+		+USB(universal Serial Bus) thiết bị ngoại vi
+		Ngoài ra còn cung cấp thiết bị điện 5 vôn để cung cấp cho các thiết bị như điện thoại 
+		
+		+Cổng kết nối card màn hình tích hợp để xem hình ảnh có sắc nét hay đồ họa game(Cổng AGP)
+		
+		+Cổng kết nối mạng(cổng PCI)
+		
+		Cổng kết nối loa(Cổng PCI)
+	
+	**Mẫu bo mạch chủ thông dụng hiện nay là ATX (1995)

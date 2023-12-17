@@ -1,0 +1,17 @@
+1.Bộ chipset:Bộ phận quan trọng làm cầu nối cho tất cả các thành phần trên mainboard
+	+chip cầu bắc
+		Kết nối với CPU từ đó kết nối với bộ nhớ chính,card màn hình và kênh truyền đến chip cầu nam
+	+chip cầu nam
+		Truyền dẫn truyền tín hiệu từ các thiết bị khác đến chip cầu bắc và ngược lại.Chip cầu nam là chip lớn thứ 2 trong main board
+
+2.BUS:Hệ thống hỗ trợ việc truyền nhận dữ liệu giữa các thành phần bên trong máy tính
+	Có 4 bus cơ bản:
+		+Bus hệ thống:Truyền dữ liệu từ CPU đến bộ nhớ trên mainboard
+		+Bus tuyến trước:Tiếp nhận và truyền dữ liệu từ chip cầu bắc đến vi xử lý và ngược lại
+		+Black side Bus:đường truyền dữ liệu giữa cache L2 và vi xử lý
+		+Expansion Bus:Cho phép các thiết bị ngoại vi, các card mở rộng truy cập vào bộ nhớ một cách độc lập
+
+3.CPU(Central processing unit):bộ xử lý trung tâm.Đây là đầu não quan trọng để chạy các chương trình và các phần mềm có trong máy tính.
+Tất cả các lệnh và quy trình được xử lý và thực hiện một cách trực tiếp
+
+	CPU giao tiếp với mainboard thông qua socket và slot tạo thành

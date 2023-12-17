@@ -1,0 +1,7 @@
+Giao tiếp IDE: Giao tiết IDE/ATA là chuẩn kết nối CD/DVD, HDD với mạch điều khiển IDE
+
+Giao tiếp FDD: là chuẩn kết nối ổ đĩa mềm trên MainBoard
+
+Giao tiếp SATA:Là đầu cắm 7 chân trên mainBoard để kết nối các loại ổ cắm HDD,SSD,CD/DVD
+
+Kết nối SCSI là chuẩn cao cấp chuyên dùng cho server

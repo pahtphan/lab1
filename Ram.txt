@@ -1,0 +1,1 @@
+Ram là bộ nhớ truy cập ngẫu nhiên(tức là nơi lưu trữ dữ liệu trước khi đưa vào nên xử lý)

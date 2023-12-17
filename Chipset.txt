@@ -1,0 +1,13 @@
+Chipset là thành phần chính của bo mạch chủ
+Chipset có thể nói ngắn gọn là tập hợp các con chip nhỏ để tạo thành 2 chipset lớn
+Đó là chipset Bắc và Nam
+	
+	Chip cầu Bắc là kết nối trung gian giữa CPU - PCI-Express/AGP - Khe cắm ram
+	
+	Chip cầu Nam là kết nối giữa các CPI BUS- IDE - USB - SATA
+	
+	Chip cầu Bắc phải nhanh hơn chip cầu Nam bởi vì thành phần nó kết nối là các thiết bị cần tốc độ cao hơn
+
+Bus là tập hợp các đường dẫn để truyền tín hiệu và dữ liệu giữa các thành phần trên bo mạch chủ
+
+Front side Bus là bus kết nối giữa CPU và chip cầu Bắc

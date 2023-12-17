@@ -1,0 +1,26 @@
+1.Xung nhịp(Tốc độ xử lý của con chip)
+
+2.Số nhân(Core)
+
+3.Siêu phần luồng
+--> Tạo ra các nhân ảo
+
+4.Bộ nhớ đệm(cache)
+-->Tiếp nhận thông tin để CPU giải quyết
+-->>Cache càng lớn-->> chip càng khỏe và xử lý công việc thuận lợi hơn
+
+5.Công nghệ turbo boost
+-->tự tăng xung nhịp
+
+6.Công nghệ sản xuất
+Kích thước càng bé thông số càng nhanh.Tức là nanomet 
+
+
+Các thành phần cấu tạo nên CPU:
+	-CU(Control unit):Có chức năng là làm việc thông dịch các lệnh của chương trình.
+	-ALU(Arithmetic logit unit): Thực hiện các phép toán và logic.Khi thực hiện xong nó sẽ trả về kết quả thực hiện phân tích về bộ nhớ và các thanh ghi.
+	-Thanh ghi(Register):Thực hiện nhiệm vụ ghi nhớ cho hệ thống.Có dung lượng rất nhỏ nhưng tốc độ truy cập rất nhanh.
+	-Bộ nhớ cache(Bộ nhớ đệm):Nằm bên trong cpu có dung lượng nhỏ nhưng tốc độ truy xuất nhanh bằng cả tốc độ của cpu làm việc.
+		+Cache L1 (bên trong CPU) lưu trữ Data và Instruction.
+		+Cache L2 (gần cache L1) chứa các lệnh và dữ liệu sẽ được thực thi tiếp theo.
+		+Cache L3 (có thể có) chứa các dữ liệu từ RAM, thiết bị lưu trữ.	
